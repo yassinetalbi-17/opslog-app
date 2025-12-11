@@ -1,0 +1,5 @@
+{
+  "name": "MLC-Suivi inter",
+  "description": "Logiciel de suivi d'interventions opérateurs avec export Excel et analyse de données.",
+  "requestFramePermissions": []
+}
